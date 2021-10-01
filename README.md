@@ -33,11 +33,11 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
 
 - Install the latest version of **[Node.js](https://nodejs.org/en/download/current/)**. 
 - (Download the latest **[.NET Runtime](https://dotnet.microsoft.com/download)** if NeoniteV2 is not working for you.)
-- Download the **[source code](https://github.com/NeoniteDev/NeoniteV2/releases)**.
-- Extract the source code.
+- Download NeoniteV2 **[here](https://github.com/NeoniteDev/NeoniteV2/archive/refs/heads/main.zip)**.
+- Extract the files from NeoniteV2.
 - Open `install.bat` and wait for it to install. (only required on the first run!)	
 - Open `run.bat`, it should say `[Neonite]: v2.7.5 is listening on port 5595!` (Do not close this while running Neonite V2!)	
-- Download  **[Carbon](https://github.com/NeoniteDev/NeoniteV2/blob/main/public/Launcher.zip?raw=true)**.	
+- Download  **[Carbon](https://github.com/NeoniteDev/Carbon/blob/main/Carbon.zip?raw=true)**.	
 - Extract the launcher and open `Carbon.exe`.
 - Type in your username and press enter.(don't use any special characters or spaces.)
 - In the lobby press `f3` to go in-game!
