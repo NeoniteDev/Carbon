@@ -12,7 +12,7 @@
 ## Table of Contents
 
 <ol>
-    <li><a href="#about-Carbon">About Neonite V2</a></li>
+    <li><a href="#about-Carbon">About Carbon</a></li>
     <li><a href="#installation">Installation</a></li>
 	  <li><a href="#faqs">FAQs</a></li>
     <li><a href="#faqs">FAQs</a></li>
