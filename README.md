@@ -15,7 +15,8 @@
     <li><a href="#about-Carbon">About Carbon</a></li>
     <li><a href="#installation">Installation</a></li>
 	  <li><a href="#faqs">FAQs</a></li>
-    <li><a href="#faqs">FAQs</a></li>
+    <li><a href="#keybinds">Keybinds</a></li>
+    <li><a href="#known-issues">Known Issues</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#credits">Credits</a></li>
     <li><a href="#license">License</a></li>
