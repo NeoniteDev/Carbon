@@ -36,7 +36,7 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
 - Download NeoniteV2 **[here](https://github.com/NeoniteDev/NeoniteV2/archive/refs/heads/main.zip)**.
 - Extract the files from NeoniteV2.
 - Open `install.bat` and wait for it to install. (only required on the first run!)	
-- Open `run.bat`, it should say `[Neonite]: v2.7.5 is listening on port 5595!` (Do not close this while running Neonite V2!)	
+- Open `run.bat`, it should say `[Neonite]: v2.7.5 is listening on port 5595!` (Do not close this while running Neonite/Carbon!)	
 - Download  **[Carbon](https://github.com/NeoniteDev/Carbon/blob/main/Carbon.zip?raw=true)**.	
 - Extract the launcher and open `Carbon.exe`.
 - Type in your username and press enter.(don't use any special characters or spaces.)
@@ -45,7 +45,7 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
 <!-- FAQs -->
 ## FAQs
 
- * How do I access Neonite V2?
+ * How do I access the Neonite dashboard?
    * You can access Neonite V2's dashboard at http://localhost:5595/.
  * Can I go in-game?
    * Yes, press `f3` in the lobby to go in-game.
