@@ -41,6 +41,7 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
 - Extract the launcher and open `Carbon.exe`.
 - Type in your username and press enter.(don't use any special characters or spaces.)
 - In the lobby press `f3` to go in-game!
+- Use the command `cheatscript equip WID_XXXX` to equip a weapon
 
 <!-- FAQs -->
 ## FAQs
@@ -105,7 +106,7 @@ Discord Server: [Neo](https://discord.gg/vM8p3mpWBS)
 | [Kemo](https://twitter.com/xkem0x)  | Original creator and maintainer |
 | [Beat-YT](https://twitter.com/TheBeatYT_evil)   | Current NeoniteV2 maintainer |
 | [Ayal](https://twitter.com/AyalCertified)   | Management |
-| [PeQu](https://twitter.com/RatioFN)   | Adding features,  releated stuff |
+| [PeQu](https://twitter.com/PeQuLeaks)   | Adding features,  event releated stuff |
 | [Timmy](https://twitter.com/mawmet)   | Adding features, Creator of Carbon |
 | [Max](https://twitter.com/FNLeaksAndInfo)   | Adding features, Bug fixing, Cleaning up code |
 | [Zatheo](https://twitter.com/zatheo_)   | Adding features, Bug fixing |
