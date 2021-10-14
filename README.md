@@ -110,6 +110,8 @@ Discord Server: [Neo](https://discord.gg/vM8p3mpWBS)
 | [Timmy](https://twitter.com/mawmet)   | Adding features, Creator of Carbon |
 | [Max](https://twitter.com/FNLeaksAndInfo)   | Adding features, Bug fixing, Cleaning up code |
 | [Zatheo](https://twitter.com/zatheo_)   | Adding features, Bug fixing |
+| [BeatYT](https://twitter.com/TheBeatYT_evil)   | Adding features, Bug fixing |
+| [iDrDoge](https://github.com/iDrDoge)   | Adding features, Bug fixing |
 
 
 
