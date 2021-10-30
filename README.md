@@ -87,7 +87,7 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
 <!-- CONTACT -->
 ## Contact
 
-Email: <a href="mailto:contact@neonite.dev">contact@neonite.dev</a>
+Email: <a href="mailto:NeoniteDev@protonmail.com">NeoniteDev@protonmail.com</a>
 
 Discord Server: [Neo](https://discord.gg/vM8p3mpWBS)
 
@@ -110,9 +110,6 @@ Discord Server: [Neo](https://discord.gg/vM8p3mpWBS)
 | [Timmy](https://twitter.com/mawmet)   | Adding features, Creator of Carbon |
 | [Max](https://twitter.com/FNLeaksAndInfo)   | Adding features, Bug fixing, Cleaning up code |
 | [Zatheo](https://twitter.com/zatheo_)   | Adding features, Bug fixing |
-
-
-
 
 <!-- LICENSE -->
 ## License
