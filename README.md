@@ -8,7 +8,8 @@
 -->
 
 
-### Going in game is currently not working!
+### Ingame is availible from s7-20.40
+### Lobby is availible from s2-latest
 
 
 <!-- TABLE OF CONTENTS -->
