@@ -9,6 +9,7 @@
 
 
 ### Ingame is availible from s7-20.40
+### Ingame is DISABLED on latest
 ### Lobby is availible from s2-latest
 
 
