@@ -45,7 +45,7 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
 - Download  **[Carbon](https://github.com/NeoniteDev/Carbon/blob/main/Carbon.zip?raw=true)**.	
 - Extract the launcher and open `Carbon.exe`.
 - Type in your username and press enter.(don't use any special characters or spaces.)
-- In the lobby press `f3` to go in-game!
+- In the lobby select a playlist and ready up to go in-game!
 - Use the command `cheatscript equip WID_XXXX` to equip a weapon
 
 <!-- FAQs -->
