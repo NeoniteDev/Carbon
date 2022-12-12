@@ -54,7 +54,7 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
  * How do I access the Neonite dashboard?
    * You can access Neonite V2's dashboard at http://localhost:5595/.
  * Can I go in-game?
-   * Yes, press `f3` in the lobby to go in-game.
+   * Yes, select a playlist and ready up in the lobby to go in-game.
  * Will I get banned?
    * No, you won't get banned because Neonite and Carbon don't connect to any Epic Games related services.
  * How do I play with my friends?
@@ -65,15 +65,7 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
 <!-- Keybinds -->
 ## Keybinds
 
- - In the lobby press `f3` to go in-game
-
- - In game press `f2` to start skydiving(glider redeploy might not function as expected))
-
  - In game press `f5` to open the GUI(might not work as expected)
-
- - In game press `f6` to toggle fly
-
- - In game press `+` to increase your movement speed and press `-` to decrease your movement speed
 
  - In game press `` ` `` to open the console
 
