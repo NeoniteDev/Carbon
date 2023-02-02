@@ -8,8 +8,7 @@
 -->
 
 
-### Ingame is availible from s7-20.40
-### Ingame is DISABLED on latest
+### Ingame is availible from s7-latest
 ### Lobby is availible from s2-latest
 
 
@@ -72,11 +71,9 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
 <!-- Known Issues -->
 ## Known Issues
 
- - Deploying your glider only works once
-
  - GUI might not always work and some buttons aren't working properly
-
- - Respawning is not working properly
+ 
+ - Some events may have bugs during streaming maps and teleporting
 
  - Is your problem not here? Join our [Discord Server](https://discord.gg/vM8p3mpWBS)
 
